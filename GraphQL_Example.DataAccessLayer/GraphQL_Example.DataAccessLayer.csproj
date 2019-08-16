@@ -214,6 +214,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HelperClass\AppUserFilter.cs" />
     <Compile Include="Implementation\AppUserRepository.cs" />
     <Compile Include="Implementation\TransactionRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
